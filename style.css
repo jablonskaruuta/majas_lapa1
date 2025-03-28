@@ -1,0 +1,166 @@
+.virsraksts{
+    text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #d5c1e8;
+    padding: 16px;
+    border-bottom: 2px solid black;
+  }
+ 
+ 
+  .navbar a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 14px 20px;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+  }
+ 
+ 
+  .navbar a.active {
+    background-color: #8e44ad;
+    color: white;
+  }
+ 
+ 
+  .content-section {
+    display: none;
+    padding: 130px;
+    border-top: 1px solid black;
+    color: #333;
+  }
+ 
+ 
+  .content-section.active-section {
+    display: block;
+  }
+
+
+  h2 {
+    text-align: center;
+    color: #1c0427;
+  }
+ 
+  p{
+    font-size: 20px;
+ 
+  }
+
+
+  .labdariba {
+ 
+    float: left;
+  }
+ 
+  #labdaribai {
+    background-color: rgb(162, 203, 228);
+  }
+  #uznemejdarbibai {
+    background-color: rgb(162, 203, 228);
+  }
+  #celojumiem {
+    background-color: rgb(162, 203, 228);
+  }
+  #citi {
+    background-color: rgb(162, 203, 228);
+  }
+ 
+  img{
+    width: 440px;
+    height: 300px;
+   align-self: start;
+   float: right;
+   
+  }
+
+
+  div.ex1 {
+    width: 440px;
+    height:260px;
+    margin: auto;
+    border: 3px solid #d5c1e8;
+    text-align: center;
+    float: left;
+   
+  }
+  h4{
+    font-size: 18px;
+    color:  #491260;
+  }
+ 
+ul{
+  font-size: 17px;
+  color: #000000;
+  text-align: left;
+}
+
+
+  h5{
+   
+  color: #8e44ad;
+  float: right;
+  font-size: 18px;
+  }
+ 
+  a {
+    color: #531e69;
+    float: right;
+    font-size: 15px;
+  }
+ 
+  footer {
+    background-color: #d5c1e8;
+    padding: 16px;
+    color: rgb(186, 108, 202);
+    border-bottom: 2px solid black;
+  }
+  h6 {
+    color: #531e69;
+    float: left;
+    font-size: 17px;
+  }
+  h3{
+    color: #531e69;
+    font-size: 20px;
+    text-align: center;
+  }
+
+
+  .logo{
+    width: 150px;
+    height: 100px;
+  }
+ 
+  .ceļošana {
+    font-size: 15px;
+    color: #140b9a;
+    text-align: center;
+  }
+  table, th, td {
+    border: 1px solid;
+    text-align: center;
+    color: #16011f;
+  }
+  .bloks{
+      display: grid;
+      background-color: rgb(157, 204, 240);
+      height: 200px;
+      width: 300px;
+      float: center;
+  }
+  .suni {
+    text-align: left;
+    float: left;
+  }
+.dzejolis {
+  text-align: left;
+  color: #000000;
+    margin: 20px;
+}
+
+
+
